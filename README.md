@@ -49,3 +49,18 @@ Machine Learning & NLP: Scikit-Learn, NLTK
 Model Serialization: Joblib
 
 Frontend Interface: HTML5, CSS3, JavaScript 
+
+
+---
+
+## 🚀 Project Status & Future Roadmap
+
+* **Backend & ML Engine:**  **COMPLETED **
+  * Data cleaning pipeline
+  * Feature vectorization
+  * Baseline Logistic Regression training & evaluation
+  * CLI prediction tool (`backend/main.py`)
+
+* **Frontend & Web UI:**  **Planned for Future Release**
+  * UI layout (`frontend/index.html`) created
+  * Flask REST API connection (`app.py`) & full browser interaction scheduled for next update.
